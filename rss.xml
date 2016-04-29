@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[maximegalon5]]></title>
         <description><![CDATA[maximegalon5]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maximegalon5/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 20:48:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 22:04:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maximegalon5/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://lh3.googleusercontent.com/THQDfdCNlGdBQN7hF0qEAxgon-hWC0xNt8qnZclYdLMIIfk1cNbPCFbpjpNLbxEx3WVwBeDm1iTIFopz7NYCuCfXaN1ZhvREmZBax8HjT8cPuZwUHX_-JSWzhPkFwjsKQJ5IUxb020lvcPIWe2gM98VY76cR9YuM8qEZX56B6Qz1FxfQtrJTuSDo8lXseNqnHnZ9wo2Yeir76FSJ4whH1KJD74c6k5w78DVp_QW2jsajt1EarrwE8eCpMmJ441jyFah3CZ7UW64aipdxxb2WRFZArmDf1E0KLFNfiviEisgMlfGDwBa-crzbz7mSqlBsVwob0q4eUl1XN27JL6DaS6A5BjDAFv_lkzp5bWiOpb9NJ1ZQpOs4BV5TV2Aq-3N07nNvaNm99IJMt7l35Yrd_i8ER-CyUlT2m_zQVwF7VpCs3CUTydsfCchJ_XCODPFJdpyc-ohqcWz7SnkIiL3zGGD5yNoXJLdPg8mN0YHlupw7SPmWL_wbwT611MXS0aOM_g-ApYWdll5D1yNKvIA4B_u-H-JREsXOElQpig8PYSGO6j4QeRQ1GQtFTFZSZca0FhVTMQ=w717-h955-no">]]></description>
-            <link>undefined9043e888-374c-457b-a5b5-78083426820e/index.html</link>
+            <link>https://thegrid.ai/maximegalon5/9043e888-374c-457b-a5b5-78083426820e/index.html</link>
             <guid isPermaLink="false">9043e888-374c-457b-a5b5-78083426820e</guid>
             <pubDate>Fri, 18 Dec 2015 20:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>1: Is Jaagi an Indian name ?</p>]]></description>
+            <link>https://thegrid.ai/maximegalon5/1-is-jaagi-an-indian-name/index.html</link>
+            <guid isPermaLink="false">7db0369c-1951-4a6f-9680-553d78379dc4</guid>
+            <pubDate>Fri, 29 Apr 2016 22:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
